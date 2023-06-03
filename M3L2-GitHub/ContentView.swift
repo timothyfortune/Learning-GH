@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Hello CodeCrew!")
             Text("This is my first commit!")
+            Text("This is my first edit directly from GitHub!  You better pull it!")
         }
         .padding()
     }
